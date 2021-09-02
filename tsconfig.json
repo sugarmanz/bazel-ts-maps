@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "incremental": true,
+      "target": "es5",
+      "module": "commonjs",
+      "strict": true,
+      "jsx": "react",
+      "allowSyntheticDefaultImports": true,
+      "sourceMap": true,
+      "declaration": true,
+      "declarationMap": true,
+      "lib": ["es6", "es2017", "esnext", "dom"],
+      "esModuleInterop": true,
+      "experimentalDecorators": true,
+      "resolveJsonModule": true,
+      "downlevelIteration": true,
+      "moduleResolution": "Node",
+    }
+  }
+  
